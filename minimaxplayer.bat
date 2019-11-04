@@ -1,0 +1,1 @@
+@java MinimaxPlayer %1
